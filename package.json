@@ -3,7 +3,19 @@
   "version": "0.0.1",
   "description": "a tiny utility to look up timezones based on the zip code",
   "keywords": ["zipcode", "zip", "timezone", "time"],
-  "devDependencies": {
-    "numeral": "~1.5.3"
+  "homepage": "https://github.com/zchrykng/node-tzip/settings",
+  "bugs": {
+    "url": "https://github.com/zchrykng/node-tzip/issues",
+    "email": "zchrykng@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Zachary King",
+    "email": "zchrykng@gmail.com"
+  },
+  "main": "./main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zchrykng/node-tzip.git"
   }
 }
