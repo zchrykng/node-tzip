@@ -1,9 +1,9 @@
 {
   "name": "tzip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a tiny utility to look up timezones based on the zip code",
   "keywords": ["zipcode", "zip", "timezone", "time"],
-  "homepage": "https://github.com/zchrykng/node-tzip/settings",
+  "homepage": "https://github.com/zchrykng/node-tzip",
   "bugs": {
     "url": "https://github.com/zchrykng/node-tzip/issues",
     "email": "zchrykng@gmail.com"
