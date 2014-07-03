@@ -1,0 +1,9 @@
+{
+  "name": "tzip",
+  "version": "0.0.1",
+  "description": "a tiny utility to look up timezones based on the zip code",
+  "keywords": ["zipcode", "zip", "timezone", "time"],
+  "devDependencies": {
+    "numeral": "~1.5.3"
+  }
+}
