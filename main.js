@@ -24,5 +24,5 @@ module.exports = function (zip) {
       return mapping[checkString]
     }
   }
-  return false;
+  return "unknown";
 };
